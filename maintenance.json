@@ -1,4 +1,5 @@
 {
-  "status": false,
-  "message": "Bot sedang dalam mode perbaikan, harap tunggu beberapa saat lagi."
+  "active": false,
+  "message": "Bot aktif & siap digunakan.",
+  "updated_at": "-"
 }
